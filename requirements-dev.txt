@@ -1,0 +1,3 @@
+-r requirements.txt
+pytest
+# weasyprint  # optional PDF export (needs system libraries; not available on Streamlit Cloud)
